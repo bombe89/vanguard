@@ -1,14 +1,13 @@
-#ÇÏ°í ½ÍÀº ±â¼ú  
+# í•˜ê³  ì‹¶ì€ ê¸°ìˆ   
 >MSA  
 >kafka  
 >flume  
 >elasticsearch  
 >android  
 >AI  
->ÆÄÀÌ½ã  
+>íŒŒì´ì¬  
 
 
-
-#ÀÏ´ÜÇØº¼°Í
->Å¬¸®¾Ó ÆÄ½Ì
+# ì¼ë‹¨í•´ë³¼ê²ƒ
+>í´ë¦¬ì•™ íŒŒì‹±
 
